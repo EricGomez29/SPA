@@ -12,3 +12,6 @@
 ## Como correr los test
 1. Tener el proyecto instalado
 2. Dentro de la carpeta client ejecutar el comando ```npm test```
+
+## Sitio web (deployed)
+El proyecto se encuentra deployado, para visualizarlo ingrese a https://ericgomez29.github.io/SPA/
