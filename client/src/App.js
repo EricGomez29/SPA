@@ -1,7 +1,6 @@
 import './App.css';
 import React, { useState } from 'react';
 import Cards from './components/cards/Cards.jsx';
-import data, { Cairns } from './data.js';
 import Nav from './components/nav/Nav';
 
 function App() {
