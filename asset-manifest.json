@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SPA/static/css/main.dacd7ecf.chunk.css",
+    "main.js": "/SPA/static/js/main.6c300d23.chunk.js",
+    "main.js.map": "/SPA/static/js/main.6c300d23.chunk.js.map",
+    "runtime-main.js": "/SPA/static/js/runtime-main.dff8b109.js",
+    "runtime-main.js.map": "/SPA/static/js/runtime-main.dff8b109.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/SPA/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.4fdec1bf.chunk.js": "/SPA/static/js/2.4fdec1bf.chunk.js",
+    "static/js/2.4fdec1bf.chunk.js.map": "/SPA/static/js/2.4fdec1bf.chunk.js.map",
+    "static/js/3.463f5c52.chunk.js": "/SPA/static/js/3.463f5c52.chunk.js",
+    "static/js/3.463f5c52.chunk.js.map": "/SPA/static/js/3.463f5c52.chunk.js.map",
+    "index.html": "/SPA/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/SPA/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.dacd7ecf.chunk.css.map": "/SPA/static/css/main.dacd7ecf.chunk.css.map",
+    "static/js/2.4fdec1bf.chunk.js.LICENSE.txt": "/SPA/static/js/2.4fdec1bf.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/SPA/static/media/fondo.a18bbade.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dff8b109.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.4fdec1bf.chunk.js",
+    "static/css/main.dacd7ecf.chunk.css",
+    "static/js/main.6c300d23.chunk.js"
+  ]
+}
