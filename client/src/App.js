@@ -8,7 +8,7 @@ function App() {
     const [cities, setCities] = useState([]);
 
     function onSearch(ciudad) {
-        fetch(`https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&units=metric&appid=c3c8b4a961bcafe40978f86648e8a58f`)
+        fetch(`http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&units=metric&appid=c3c8b4a961bcafe40978f86648e8a58f`)
             .then(r => r.json())
             .then((recurso) => {
                 if (recurso.main !== undefined) {
