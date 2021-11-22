@@ -4,3 +4,14 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-auto-rows: minmax(300px, auto);
 }
+
+.searchContainer {
+    border-radius: 10px;
+    background-color: #212529ad;
+    padding: 20px;
+}
+
+.search {
+    color: white;
+    margin: 0px;
+}
